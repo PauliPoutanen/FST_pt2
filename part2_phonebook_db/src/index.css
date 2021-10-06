@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+h1 {font-family: 'Open Sans', sans-serif;
+    color: rgb(0, 128, 0);
+    font-size: 40px;
+  }
+
+.person {font-family: 'Open Sans', sans-serif;
+    color: rgb(60, 0, 128);
+    font-size: 27px;
+  }
+
+  .error {
+    color: red;
+    background: lightgrey;
+    font-size: 15px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
